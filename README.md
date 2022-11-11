@@ -4,6 +4,8 @@
 
 ![preview](./images/preview1.PNG)
 
+link para o projeto qr-code
+https://jmdonizetti.github.io/qr-code-page/
 
 ## Social media
 
